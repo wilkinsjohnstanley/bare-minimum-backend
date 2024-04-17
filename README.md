@@ -1,2 +1,0 @@
-"# bookstore-mern" 
-"# trello-app" 
