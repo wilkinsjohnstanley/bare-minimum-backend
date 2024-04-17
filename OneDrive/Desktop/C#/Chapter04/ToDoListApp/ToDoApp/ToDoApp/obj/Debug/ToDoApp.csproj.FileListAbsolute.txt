@@ -1,0 +1,10 @@
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.ToDoApp.resources
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Properties.Resources.resources
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.GenerateResource.cache
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe.config
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\bin\Debug\ToDoApp.pdb
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.exe
+C:\Users\thepo\OneDrive\Desktop\C#\Chapter04\ToDoListApp\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
